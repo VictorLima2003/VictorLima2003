@@ -1,5 +1,4 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Victor Lima </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 Meu nome é Victor, tenho 18 anos e sou Desenvolvedor. Minha vontade de construir soluções foi despertada muito cedo, aos meus 12 anos. Apartir de lá, tenho buscado me desenvolver todos os dias, capturado boas-práticas de desenvolvimento para construção de aplicações sólidas.
 
@@ -31,9 +30,6 @@ Meu nome é Victor, tenho 18 anos e sou Desenvolvedor. Minha vontade de construi
 </a>
 </p>
 -->
-
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
 
 <!--
 **maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
