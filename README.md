@@ -1,11 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Victor Lima </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+Meu nome é Victor, tenho 18 anos e sou Desenvolvedor. Minha vontade de construir soluções foi despertada muito cedo, aos meus 12 anos. Apartir de lá, tenho buscado me desenvolver todos os dias, capturado boas-práticas de desenvolvimento para construção de aplicações sólidas.
 
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
+## 🔥 🛠 Tech Stack 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -21,34 +19,18 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
-
-<br><br>
-
 ## 👨🏽‍🦲 &nbsp;Social Links
 
+<!--
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 <a href="https://linkedin.com/in/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/maykbrito" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
 </p>
+-->
 
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 
