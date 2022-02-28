@@ -18,8 +18,6 @@ Meu nome é Victor, tenho 18 anos e sou Desenvolvedor de Software. Minha vontade
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
-
 <!--
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/maykbrito" target="_blank">
