@@ -12,7 +12,7 @@ Meu nome é Victor, tenho 18 anos e sou Desenvolvedor de Software. Minha vontade
 ![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB)&nbsp;
-![TypeOrm](https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=typeORM)&nbsp;
+![TypeOrm](https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=prisma)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 
 ## ⏳ Studing
