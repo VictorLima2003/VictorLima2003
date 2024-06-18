@@ -1,6 +1,6 @@
 <h1 align="left">Olá, Eu sou Victor Lima </h1>
 
-Meu nome é Victor, tenho 20 anos e sou Desenvolvedor de Software. Realizei a concepção, planejamento e construção de projetos pessoais e para o mercado utilizando diferentes tecnologias. Tenho buscado me desenvolver a cada dia, trabalhando com boas-práticas de desenvolvimento para construção de aplicações mais sólidas, resilientes e de facil legibilidade.
+Meu nome é Victor, tenho 20 anos e sou desenvolvedor de software apaixonado pelo que faz. Realizei o pré-projeto, planejamento e construção de vários projetos pessoais e para o mercado (freelancer e dentro de organizações) utilizando diferentes tecnologias, em diferentes tipos de aplicações (Backend, frontend, RPA, lambdas...), atualmente me dedicando mais ao desenvolvimento server-side. Tenho buscado me desenvolver a cada dia, trabalhando com boas-práticas de desenvolvimento para construção de aplicações mais sólidas, resilientes e de facil legibilidade.
 
 ## 🔥 🛠 Tecnologias
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
