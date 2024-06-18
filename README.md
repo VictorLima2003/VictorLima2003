@@ -9,7 +9,13 @@ Meu nome é Victor, tenho 20 anos e sou Desenvolvedor de Software. Realizei a co
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Go Lang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/-amazons3-05122A?style=flat&logo=amazons3)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
+![S3](https://img.shields.io/badge/-AmazonS3-05122A?style=flat&logo=amazons3)&nbsp;
+![SES](https://img.shields.io/badge/-AmazonSES-05122A?style=flat&logo=amazonsimpleemailservice)&nbsp;
+![EC2](https://img.shields.io/badge/-AmazonLambda-05122A?style=flat&logo=awslambda)&nbsp;
+![EC2](https://img.shields.io/badge/-AmazonECS-05122A?style=flat&logo=amazonecs)&nbsp;
+![EC2](https://img.shields.io/badge/-AmazonSQS-05122A?style=flat&logo=amazonsqs)&nbsp;
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
