@@ -16,7 +16,7 @@ Meu nome é Victor, tenho 20 anos e sou Desenvolvedor de Software. Realizei a co
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
-![Go Lang](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=go)&nbsp;
+![Go Lang](https://img.shields.io/badge/-GO Lang-05122A?style=flat&logo=go)&nbsp;
 
 ## ⏳ Estudando
 <br><br>
