@@ -3,11 +3,14 @@
 Meu nome é Victor, tenho 20 anos e sou Desenvolvedor de Software. Realizei a concepção, planejamento e construção de projetos pessoais e para o mercado utilizando diferentes tecnologias. Tenho buscado me desenvolver a cada dia, trabalhando com boas-práticas de desenvolvimento para construção de aplicações mais sólidas, resilientes e de facil legibilidade.
 
 ## 🔥 🛠 Tecnologias
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Go Lang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-amazons3-05122A?style=flat&logo=amazons3)&nbsp;
+
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
@@ -16,7 +19,7 @@ Meu nome é Victor, tenho 20 anos e sou Desenvolvedor de Software. Realizei a co
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
-![Go Lang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+
 
 ## ⏳ Estudando
 <br><br>
