@@ -28,7 +28,7 @@ Meu nome é Victor, tenho 20 anos e sou Desenvolvedor de Software. Realizei a co
 
 
 ## ⏳ Estudando
-![DDD](https://img.shields.io/badge/-DomainDrivenDesign-05122A?style=flat&logo=DDD)&nbsp;
+![DDD](https://img.shields.io/badge/-DDD-05122A?style=flat&logo=DDD)&nbsp;
 ![Nest](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs)&nbsp;
 
 <br><br>
