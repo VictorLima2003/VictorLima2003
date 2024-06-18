@@ -1,6 +1,6 @@
 <h1 align="left">Olá, Eu sou Victor Lima </h1>
 
-Meu nome é Victor, tenho 18 anos e sou Desenvolvedor de Software. Minha vontade de construir soluções foi despertada muito cedo, aos meus 12 anos. Ao longo desse periodo, realizei a construção de projetos pessoais e para o mercado, utilizando a Stack Javascipt/Typescript, que me atendeu muito bem. Tenho buscado me desenvolver a cada dia, atualmente conhecendo boas-práticas de desenvolvimento para construção de aplicações mais sólidas e de facil legibilidade.
+Meu nome é Victor, tenho 20 anos e sou Desenvolvedor de Software. Realizei a concepção, planejamento e construção de projetos pessoais e para o mercado utilizando diferentes tecnologias. Tenho buscado me desenvolver a cada dia, trabalhando com boas-práticas de desenvolvimento para construção de aplicações mais sólidas, resilientes e de facil legibilidade.
 
 ## 🔥 🛠 Tecnologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
