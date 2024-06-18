@@ -7,6 +7,8 @@ Meu nome é Victor, tenho 20 anos e sou Desenvolvedor de Software. Realizei a co
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
 ![Go Lang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -17,8 +19,6 @@ Meu nome é Victor, tenho 20 anos e sou Desenvolvedor de Software. Realizei a co
 ![EC2](https://img.shields.io/badge/-AmazonECS-05122A?style=flat&logo=amazonecs)&nbsp;
 ![EC2](https://img.shields.io/badge/-AmazonSQS-05122A?style=flat&logo=amazonsqs)&nbsp;
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB)&nbsp;
 ![TypeOrm](https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=typeorm)&nbsp;
@@ -28,6 +28,9 @@ Meu nome é Victor, tenho 20 anos e sou Desenvolvedor de Software. Realizei a co
 
 
 ## ⏳ Estudando
+![DDD](https://img.shields.io/badge/-DomainDrivenDesign-05122A?style=flat&logo=DDD)&nbsp;
+![Nest](https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs)&nbsp;
+
 <br><br>
 
 <!--
